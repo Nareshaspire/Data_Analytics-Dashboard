@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Analytics Dashboard",
+  "description": "A highly scalable, interactive data visualization dashboard built with React, Recharts, and Tailwind CSS. Designed with modular architecture and cognitive load principles.",
+  "requestFramePermissions": []
+}
